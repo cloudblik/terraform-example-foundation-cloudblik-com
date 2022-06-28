@@ -26,7 +26,10 @@ group_billing_admins = "gcp-billing-admins@cloudblik.com"
 default_region = "europe-central2"
 #credentials = "gcp-test01-343011-f628a82bbe1d.json"
 org_id = "48776789948"
+#parent_folder DEV-JACEK
 parent_folder = "820932490523"
+#parent_folder cloudblik.com
+#parent_folder = "48776789948"
 
 // Optional - for an organization with existing projects or for development/validation.
 // Uncomment this variable to place all the example foundation resources under
