@@ -26,14 +26,13 @@ group_billing_admins = "gcp-billing-admins@cloudblik.com"
 default_region = "europe-central2"
 #credentials = "gcp-test01-343011-f628a82bbe1d.json"
 org_id = "48776789948"
-
+parent_folder = "820932490523"
 
 // Optional - for an organization with existing projects or for development/validation.
 // Uncomment this variable to place all the example foundation resources under
 // the provided folder instead of the root organization.
 // The variable value is the numeric folder ID
 // The folder must already exist.
-//parent_folder = "01234567890"
 
 /* ----------------------------------------
     Specific to jenkins_bootstrap module
