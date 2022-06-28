@@ -14,15 +14,12 @@
  * limitations under the License.
  */
 
-org_id = "000000000000"
-
-billing_account = "000000-000000-000000"
-
-group_org_admins = "gcp-organization-admins@example.com"
-
-group_billing_admins = "gcp-billing-admins@example.com"
-
-default_region = "us-central1"
+billing_account = "01C16E-188302-BA15B4"
+group_org_admins = "gcp-organization-admins@cloudblik.com"
+group_billing_admins = "gcp-billing-admins@cloudblik.com"
+default_region = "europe-central2"
+org_id = "48776789948"
+parent_folder = "759181394056"
 
 // Optional - for an organization with existing projects or for development/validation.
 // Uncomment this variable to place all the example foundation resources under
